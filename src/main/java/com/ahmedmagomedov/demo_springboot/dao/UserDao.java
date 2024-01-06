@@ -1,7 +1,6 @@
 package com.ahmedmagomedov.demo_springboot.dao;
 
 
-
 import com.ahmedmagomedov.demo_springboot.model.User;
 
 import java.util.List;

@@ -1,9 +1,7 @@
 package com.ahmedmagomedov.demo_springboot.model;
 
 
-
 import jakarta.persistence.*;
-import lombok.Data;
 
 
 @Entity
